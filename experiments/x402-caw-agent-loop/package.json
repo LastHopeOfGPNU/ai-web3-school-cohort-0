@@ -1,0 +1,11 @@
+{
+  "name": "x402-caw-agent-loop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js",
+    "demo:http": "node src/http-demo.js"
+  }
+}
