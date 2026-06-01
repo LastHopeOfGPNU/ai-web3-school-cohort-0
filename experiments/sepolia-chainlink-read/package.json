@@ -1,0 +1,9 @@
+{
+  "name": "sepolia-chainlink-read",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "read": "node src/read-price-feed.js"
+  }
+}
